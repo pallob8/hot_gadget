@@ -1,0 +1,132 @@
+.img-fluid{
+    width: 100px;
+    height: 50px;
+}
+.up{
+    margin-top:20px;
+}
+.best{
+   margin-top: 70px;
+    height: 350px;
+    width: 100%;
+}
+.second{
+   
+    background-image: url('images/bg-2.png');
+    background-repeat: no-repeat;
+    background-size: 110px 100px;
+    background-position: bottom left;
+    margin-bottom: 20px;
+ 
+}
+.computer{
+    margin-top: 90px;}
+
+    .buynow{
+      border: none;
+      border-radius: 3px;
+      background-color:rgb(74, 64, 64);
+      color: white;
+    }
+    
+.carousel-indicators .sadik{
+
+  
+background-image: linear-gradient(to bottom right,orange, yellow);
+
+border: 0px solid white;
+border-radius: 10px;
+    width: 20px;
+    height:5px;
+}   
+
+.smart{
+    padding-top:30px;
+    padding-bottom:20px;
+}
+.see{
+    color: orange;
+}
+.may{
+    border: 0px solid red;
+    height:470px;
+    width:100%;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.phonepe{
+    width:200px;
+    height:200px;
+}
+.cardhei{
+    height:30px;
+}
+p.start-from-middle {
+    padding-left: 2%;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+ 
+  }
+.iphone{
+ padding-top: 20px;
+}
+.samsung{
+    padding-top: 30px;
+}
+
+.res{
+    width: 100%;
+    height: 100%;
+    margin-left: 40px;
+  
+    
+}
+.issh{
+    border: 0px solid red;
+    margin-top: 20px;
+}
+.col-md-6{
+    border: 0px solid red;
+}
+.clsbag{
+    width: 40%;
+    height: 60%;
+
+
+}
+.clgb{
+    width:100%;
+    height: 200px;
+    padding-top:60px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius:7px 7px 7px 25px;
+}
+.paren{
+  margin-top: 10px;
+}
+.row-md-6{
+    border: 0px solid red;
+
+}
+.ihave{
+    margin-top:50px;
+}
+.cla{
+    border: 0px solid red;
+    padding: 50px;
+
+}
+.push{
+    width:100px;
+    height:6px;
+    border: 0px solid red;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom right,orange, yellow);
+    margin-bottom: 40px;
+   
+}
+.last{
+    margin-top:100px;
+}
